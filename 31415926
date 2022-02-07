@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>Lokerhp-Hackerone</h1>
+<script>alert(document.domain)</script>
+</body>
+</html>
